@@ -1,0 +1,6 @@
+Touzari Lisa 28617271 
+Gr ISI 2B
+
+le fichier zip contient tout le code necessaire à l'execution.
+Pour faire la compilation du code -> lancer la commande make dans le terminal.
+Pour executer le code -> lancer la commande ./main.
